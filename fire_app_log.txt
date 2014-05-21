@@ -1,0 +1,182 @@
+2014-05-19 21:39:23    remove .sass-cache/ 
+2014-05-19 21:39:25    create css/style.css 
+2014-05-19 21:43:39     error sass/style.scss (Line 7: Invalid CSS after "@import ": expected file to import (string or url()), was ""rgbapng”;")
+2014-05-19 21:43:40 overwrite css/style.css 
+2014-05-19 21:43:48    remove .sass-cache/ 
+2014-05-19 21:43:48    remove css/style.css 
+2014-05-19 21:43:49     error sass/style.scss (Line 7: Invalid CSS after "@import ": expected file to import (string or url()), was ""rgbapng”;")
+2014-05-19 21:43:49    create css/style.css 
+2014-05-19 21:43:49     error sass/style.scss (Line 7: Invalid CSS after "@import ": expected file to import (string or url()), was ""rgbapng”;")
+2014-05-19 21:43:50 overwrite css/style.css 
+2014-05-19 21:44:12     error sass/style.scss (Line 6: File to import not found or unreadable: retina-sprites.
+Load paths:
+  /Users/muhammadtim/Documents/workspace/html-css/notes/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_1.0/compass-core-1.0.0.alpha.19/stylesheets
+  /Users/muhammadtim/.compass/extensions/breakpoint/stylesheets
+  /Users/muhammadtim/.compass/extensions/sassy-maps/stylesheets
+  /Users/muhammadtim/.compass/extensions/susy/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.5/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.2/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-3.1.1.1/vendor/assets/stylesheets
+  Compass::SpriteImporter
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-3.1.1.1/vendor/assets/stylesheets)
+2014-05-19 21:44:12 overwrite css/style.css 
+2014-05-19 21:50:58     error sass/style.scss (Line 15 of _retina-sprites.scss: No files were found in the load path matching "icons/*.png". Your current load paths are: /Users/muhammadtim/Documents/workspace/html-css/notes/img)
+2014-05-19 21:50:58 overwrite css/style.css 
+2014-05-19 21:51:55     error sass/style.scss (Line 7: File to import not found or unreadable: rgbapng.
+Load paths:
+  /Users/muhammadtim/Documents/workspace/html-css/notes/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_1.0/compass-core-1.0.0.alpha.19/stylesheets
+  /Users/muhammadtim/.compass/extensions/breakpoint/stylesheets
+  /Users/muhammadtim/.compass/extensions/retina-sprites/stylesheets
+  /Users/muhammadtim/.compass/extensions/sassy-maps/stylesheets
+  /Users/muhammadtim/.compass/extensions/susy/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.5/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.2/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-3.1.1.1/vendor/assets/stylesheets
+  Compass::SpriteImporter
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-3.1.1.1/vendor/assets/stylesheets)
+2014-05-19 21:51:55 overwrite css/style.css 
+2014-05-19 21:55:37     error sass/style.scss (Line 7: File to import not found or unreadable: rgbapng.
+Load paths:
+  /Users/muhammadtim/Documents/workspace/html-css/notes/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_1.0/compass-core-1.0.0.alpha.19/stylesheets
+  /Users/muhammadtim/.compass/extensions/breakpoint/stylesheets
+  /Users/muhammadtim/.compass/extensions/retina-sprites/stylesheets
+  /Users/muhammadtim/.compass/extensions/sassy-maps/stylesheets
+  /Users/muhammadtim/.compass/extensions/susy/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.5/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.2/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-3.1.1.1/vendor/assets/stylesheets
+  Compass::SpriteImporter
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-3.1.1.1/vendor/assets/stylesheets)
+2014-05-19 21:55:37 overwrite css/style.css 
+2014-05-19 22:00:46    remove .sass-cache/ 
+2014-05-19 22:00:47    remove css/style.css 
+2014-05-19 22:00:51     error sass/style.scss (Line 7: File to import not found or unreadable: rgbapng.
+Load paths:
+  /Users/muhammadtim/Documents/workspace/html-css/notes/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_1.0/compass-core-1.0.0.alpha.19/stylesheets
+  /Users/muhammadtim/.compass/extensions/breakpoint/stylesheets
+  /Users/muhammadtim/.compass/extensions/retina-sprites/stylesheets
+  /Users/muhammadtim/.compass/extensions/sassy-maps/stylesheets
+  /Users/muhammadtim/.compass/extensions/susy/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.5/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.2/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-3.1.1.1/vendor/assets/stylesheets
+  Compass::SpriteImporter
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-3.1.1.1/vendor/assets/stylesheets)
+2014-05-19 22:00:51    create css/style.css 
+2014-05-19 22:00:52     error sass/style.scss (Line 7: File to import not found or unreadable: rgbapng.
+Load paths:
+  /Users/muhammadtim/Documents/workspace/html-css/notes/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_1.0/compass-core-1.0.0.alpha.19/stylesheets
+  /Users/muhammadtim/.compass/extensions/breakpoint/stylesheets
+  /Users/muhammadtim/.compass/extensions/retina-sprites/stylesheets
+  /Users/muhammadtim/.compass/extensions/sassy-maps/stylesheets
+  /Users/muhammadtim/.compass/extensions/susy/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.5/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.2/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-3.1.1.1/vendor/assets/stylesheets
+  Compass::SpriteImporter
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-3.1.1.1/vendor/assets/stylesheets)
+2014-05-19 22:00:53 overwrite css/style.css 
+2014-05-19 22:07:03     error sass/style.scss (Line 5: File to import not found or unreadable: normalize-scss.
+Load paths:
+  /Users/muhammadtim/Documents/workspace/html-css/notes/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_1.0/compass-core-1.0.0.alpha.19/stylesheets
+  /Users/muhammadtim/.compass/extensions/breakpoint/stylesheets
+  /Users/muhammadtim/.compass/extensions/retina-sprites/stylesheets
+  /Users/muhammadtim/.compass/extensions/sassy-maps/stylesheets
+  /Users/muhammadtim/.compass/extensions/susy/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.5/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.2/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-3.1.1.1/vendor/assets/stylesheets
+  Compass::SpriteImporter
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-3.1.1.1/vendor/assets/stylesheets)
+2014-05-19 22:07:04 overwrite css/style.css 
+2014-05-19 22:07:41     error sass/style.scss (Line 5: File to import not found or unreadable: normalize-scss.
+Load paths:
+  /Users/muhammadtim/Documents/workspace/html-css/notes/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_1.0/compass-core-1.0.0.alpha.19/stylesheets
+  /Users/muhammadtim/.compass/extensions/breakpoint/stylesheets
+  /Users/muhammadtim/.compass/extensions/retina-sprites/stylesheets
+  /Users/muhammadtim/.compass/extensions/sassy-maps/stylesheets
+  /Users/muhammadtim/.compass/extensions/susy/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.5/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.2/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-3.1.1.1/vendor/assets/stylesheets
+  Compass::SpriteImporter
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-3.1.1.1/vendor/assets/stylesheets)
+2014-05-19 22:07:42 overwrite css/style.css 
+2014-05-19 22:13:00 overwrite css/style.css 
+2014-05-20 09:17:09    create css/notes.css 
+2014-05-20 09:55:36 overwrite css/notes.css 
+2014-05-20 10:00:27 overwrite css/notes.css 
+2014-05-20 10:03:27 overwrite css/notes.css 
+2014-05-20 10:05:34 overwrite css/notes.css 
+2014-05-20 10:12:03     error sass/notes.scss (Line 14: Invalid CSS after "...alic,900italic"": expected ")", was "@import url("ht...")
+2014-05-20 10:12:03 overwrite css/notes.css 
+2014-05-20 10:12:20     error sass/notes.scss (Line 14: Invalid CSS after "...alic,900italic"": expected ")", was "@import url("ht...")
+2014-05-20 10:12:20 identical css/notes.css 
+2014-05-20 10:13:44 overwrite css/notes.css 
+2014-05-20 10:15:58 overwrite css/notes.css 
+2014-05-20 10:17:33 overwrite css/notes.css 
+2014-05-20 10:37:47     error sass/notes.scss (Line 36: Undefined mixin 'tim-center'.)
+2014-05-20 10:37:48 overwrite css/notes.css 
+2014-05-20 10:38:35     error sass/notes.scss (Line 12: Undefined variable: "$total-columns".)
+2014-05-20 10:38:35 overwrite css/notes.css 
+2014-05-20 10:41:58     error sass/notes.scss (Line 12: $map: "susy" is not a map for `map-get')
+2014-05-20 10:41:58 overwrite css/notes.css 
+2014-05-20 10:44:06 overwrite css/notes.css 
+2014-05-20 10:48:28 overwrite css/notes.css 
+2014-05-20 10:49:28 overwrite css/notes.css 
+2014-05-20 10:54:26 overwrite css/notes.css 
+2014-05-20 11:01:15 overwrite css/notes.css 
+2014-05-20 11:02:21 overwrite css/notes.css 
+2014-05-20 11:04:43 overwrite css/notes.css 
+2014-05-20 11:05:21 overwrite css/notes.css 
+2014-05-20 11:06:26 overwrite css/notes.css 
+2014-05-20 11:22:40 overwrite css/notes.css 
+2014-05-20 11:24:07 overwrite css/notes.css 
+2014-05-20 11:26:07 overwrite css/notes.css 
+2014-05-20 12:10:00 overwrite css/notes.css 
+2014-05-20 12:19:21 overwrite css/notes.css 
+2014-05-20 13:46:00 overwrite css/notes.css 
+2014-05-20 14:03:00 overwrite css/notes.css 
+2014-05-20 14:03:24 overwrite css/notes.css 
+2014-05-20 14:04:22     error sass/notes.scss (Line 26: Invalid CSS after "...de google-font(": expected ")", was ""Source+Sans+Pro);")
+2014-05-20 14:04:22 overwrite css/notes.css 
+2014-05-20 14:04:25 overwrite css/notes.css 
+2014-05-20 14:04:55 overwrite css/notes.css 
+2014-05-20 14:05:32 overwrite css/notes.css 
+2014-05-20 14:06:44 overwrite css/notes.css 
+2014-05-20 14:07:57 overwrite css/notes.css 
+2014-05-20 14:11:06 overwrite css/notes.css 
+2014-05-20 14:23:11 overwrite css/notes.css 
+2014-05-20 14:24:25 overwrite css/notes.css 
+2014-05-20 14:25:31 overwrite css/notes.css 
+2014-05-20 14:27:09 overwrite css/notes.css 
+2014-05-20 14:28:31 overwrite css/notes.css 
+2014-05-20 14:30:07 overwrite css/notes.css 
+2014-05-20 14:34:13 overwrite css/notes.css 
+2014-05-20 14:36:00 overwrite css/notes.css 
+2014-05-20 14:37:44 overwrite css/notes.css 
+2014-05-20 14:38:58 overwrite css/notes.css 
+2014-05-20 14:41:51 overwrite css/notes.css 
+2014-05-20 14:42:55 overwrite css/notes.css 
+2014-05-20 14:43:22 overwrite css/notes.css 
+2014-05-20 14:44:33 overwrite css/notes.css 
+2014-05-20 14:45:15 overwrite css/notes.css 
+2014-05-20 14:54:52 overwrite css/notes.css 
+2014-05-20 15:03:45 overwrite css/notes.css 
+2014-05-20 15:04:28 overwrite css/notes.css 
+2014-05-20 15:05:00 overwrite css/notes.css 
+2014-05-20 15:05:31 overwrite css/notes.css 

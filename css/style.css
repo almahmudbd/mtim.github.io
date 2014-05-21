@@ -1,0 +1,12 @@
+/* line 11, ../sass/style.scss */
+body {
+  max-width: 80em;
+  margin-left: auto;
+  margin-right: auto;
+}
+/* line 12, ../../../../../.compass/extensions/susy/sass/susy/output/support/_clearfix.scss */
+body::after {
+  content: " ";
+  display: block;
+  clear: both;
+}

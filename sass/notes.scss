@@ -1,0 +1,64 @@
+// Screen
+// ======
+
+@import "grids";
+//@import "normalize-scss";
+@import "breakpoint";
+//@import "retina-sprites";
+//@import "rgbapng";
+@import "compass/css3";
+
+//Mixins
+
+@mixin google-font ($family: "Source+Sans+Pro", $weights: "standard") {
+	$weightstring: "";
+	@if $weights != "standard" {
+		$weightstring: ":#{$weights}";
+	}
+	$family: unquote($family);
+	$weightstring: unquote($weightstring);
+	@import url("http://fonts.googleapis.com/css?family=#{$family}#{$weightstring}");
+}
+
+//Fonts
+
+@include google-font("Source+Sans+Pro", "300,700,300italic,700italic");
+
+html {
+
+	font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-weight: 300;
+	font-size: 62.5%;
+	color: #666666;
+}
+
+body { 
+	@include container(50em); 
+	font-size: 18px; font-size: 1.8rem;
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+
+	text-align: center;
+	font-weight: 300;
+}
+
+h1 {
+	font-size: 44px; font-size: 4.4rem;
+}
+
+blockquote {
+	@media screen {
+		//TODO: support for non rem browsers
+		border-left: #e5e5e5 0.34722rem solid;
+		padding: 0 1.38889rem;
+	}
+}
+
+.no-print {
+	@media print {
+		display: none !important;
+	}
+
+}

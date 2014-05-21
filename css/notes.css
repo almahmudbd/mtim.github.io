@@ -1,0 +1,50 @@
+@import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,700,300italic,700italic");
+/* line 27, ../sass/notes.scss */
+html {
+  font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  font-size: 62.5%;
+  color: #666666;
+}
+
+/* line 35, ../sass/notes.scss */
+body {
+  max-width: 50em;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 18px;
+  font-size: 1.8rem;
+}
+/* line 12, ../../../../../.compass/extensions/susy/sass/susy/output/support/_clearfix.scss */
+body::after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+/* line 41, ../sass/notes.scss */
+h1, h2, h3, h4, h5, h6 {
+  text-align: center;
+  font-weight: 300;
+}
+
+/* line 47, ../sass/notes.scss */
+h1 {
+  font-size: 44px;
+  font-size: 4.4rem;
+}
+
+@media screen {
+  /* line 51, ../sass/notes.scss */
+  blockquote {
+    border-left: #e5e5e5 0.34722rem solid;
+    padding: 0 1.38889rem;
+  }
+}
+
+@media print {
+  /* line 59, ../sass/notes.scss */
+  .no-print {
+    display: none !important;
+  }
+}
