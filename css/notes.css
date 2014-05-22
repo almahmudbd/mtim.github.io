@@ -24,18 +24,22 @@ body::after {
 
 /* line 41, ../sass/notes.scss */
 h1, h2, h3, h4, h5, h6 {
-  text-align: center;
   font-weight: 300;
 }
 
-/* line 47, ../sass/notes.scss */
+/* line 46, ../sass/notes.scss */
+h1, h2 {
+  text-align: center;
+}
+
+/* line 52, ../sass/notes.scss */
 h1 {
   font-size: 44px;
   font-size: 4.4rem;
 }
 
 @media screen {
-  /* line 51, ../sass/notes.scss */
+  /* line 56, ../sass/notes.scss */
   blockquote {
     border-left: #e5e5e5 0.34722rem solid;
     padding: 0 1.38889rem;
@@ -43,7 +47,7 @@ h1 {
 }
 
 @media print {
-  /* line 59, ../sass/notes.scss */
+  /* line 64, ../sass/notes.scss */
   .no-print {
     display: none !important;
   }

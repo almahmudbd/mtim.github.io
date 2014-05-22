@@ -1,4 +1,5 @@
 [template: notes]:/
+[title: Notes from Muhammad Tim's Lectures]:/
 
 #Notes from Muhammad Tim's Lectures
 
@@ -8,8 +9,11 @@
 
 1. [Introduction](/ruqyah/introduction)
 2. [The World of the Jinn](/ruqyah/worldofthejinn)
+3. [Magic & the Magician](/ruqyah/magicandthemagician)
 
 ###Ruqyah Training - Two Day Seminar
 
-1. [Introduction](/ruqyah/introduction), in addition to: [The Need for This Course and the Virtue of Ruqyah](/ruqyah/virtue)
-2. [The World of the Jinn](/ruqyah/worldofthejinn)
+1. [Introduction](/ruqyah/introduction)
+2. [The Need for This Course and the Virtue of Ruqyah](/ruqyah/virtue)
+3. [The World of the Jinn](/ruqyah/worldofthejinn)
+4. [Magic & the Magician](/ruqyah/magicandthemagician)
