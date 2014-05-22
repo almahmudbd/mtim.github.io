@@ -1,7 +1,18 @@
 [template: notes]:/
 [title: The Need and Virtue of Ruqyah - Notes from Muhammad Tim's Lectures]:/
+[menu: The Virtue of Ruqyah]:/
+[menu-locgroup: ruqyah]:/
+[order: 2]:/
 
-<sup>Version 1.1</sup>
+<div id="nav" class="no-print">
+<h3>Ruqyah, the Jinn, Magic, the Evil Eye, and Related Topics:</h3>
+<ul class="nav-menu">
+<li data-lift="xmenu?locgroup=ruqyah"><a href="#">Ruqyah</a></li>
+</ul>
+<p><a href="/">[Back to Notes Index]</a></p>
+</div>
+
+<sup>Version 1.2</sup>
 
 ##The Need and Virtue of Ruqyah
 
@@ -32,7 +43,7 @@ For this reason, it is important to mention some of the virtues of ruqyah, and w
 
 4. The raaqi is a mujaahid fighting in the way of Allah. Ibn Taymiyyah (may Allah have mercy on him) said, "For [the raaqi] is a mujaahid for the sake of Allah, and this is from the greatest forms of jihad, so he should be careful, lest the enemy overcome him by his sins." He also said, "It is not right that someone is scared of learning this knowledge [of ruqyah] and practising it, because it is an act of worship, and jihad for the sake of Allah, the Exalted. The servants of Allah who stick to his limits are within the safekeeping of Allah, his protection, his care, and his preservation." In explaining this, he said, "The Prophets and the pious people who followed them fought against the enemies of Allah, from the jinn and the men, and they repelled them with whatever permissible means that they were able, and they would remove the jinn from the bodies of people, as 'Eesa and our Messenger Muhammad (may the peace and blessings of Allah be upon them both) did." The purpose of jihad is to make the word of the Allah the highest, and the word of those who disbelieve the lowest. The raaqi is the one who puts himself in danger, fighting against the shaytaan to achieve this aim.
 
-5. The raaqi is amongst the most deserving of people to be from those whom the Prophet (may the peace and blessings of Allah be upon him) mentioned, "and from [my ummah] are 70,000 who will enter Paradise without any reckoning or punishment." The Prophet (may the peace and blessings of Allah be upon him) described them with a description that suggests that they are those who have perfected their tawheed and their trust is in Allah alone. He (may the peace and blessings of Allah be upon him) said, "They are those who do not seek ruqyah, and do not heed omens, and do not get cauterized, and upon their Lord they trust." <sup><span class="footnote">al-Bukhari no. 5705 & Muslim no. 218.</span></sup> This does not mean that it is forbidden to seek ruqyah, but that those who want the highest levels of faith must make their reliance upon Allah alone, and the raaqi should develop this level of reliance. The raaqi is the least likely of anyone to seek ruqyah, as he has no need of doing so, and his reliance upon Allah is not like the reliance of other people, as he spends his time fighting enemies against which there are no worldly means of protection - he has nothing but his trust in Allah to protect him.
+5. The raaqi is amongst the most deserving of people to be from those whom the Prophet (may the peace and blessings of Allah be upon him) mentioned, "and from [my ummah] are 70,000 who will enter Paradise without any reckoning or punishment." The Prophet (may the peace and blessings of Allah be upon him) described them with a description that suggests that they are those who have perfected their tawheed and their trust is in Allah alone. He (may the peace and blessings of Allah be upon him) said, "They are those who do not seek ruqyah, and do not heed omens, and do not get cauterised, and upon their Lord they trust." <sup><span class="footnote">al-Bukhari no. 5705 & Muslim no. 218.</span></sup> This does not mean that it is forbidden to seek ruqyah, but that those who want the highest levels of faith must make their reliance upon Allah alone, and the raaqi should develop this level of reliance. The raaqi is the least likely of anyone to seek ruqyah, as he has no need of doing so, and his reliance upon Allah is not like the reliance of other people, as he spends his time fighting enemies against which there are no worldly means of protection - he has nothing but his trust in Allah to protect him.
 
 <hr/>
 <sup><div id="footnotes" class="footnoteholder"></div></sup>

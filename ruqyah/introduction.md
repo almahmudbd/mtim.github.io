@@ -1,5 +1,16 @@
 [template: notes]:/
 [title: Introduction - Notes from Muhammad Tim's Lectures]:/
+[menu: Introduction]:/
+[menu-locgroup: ruqyah]:/
+[order: 1]:/
+
+<div id="nav" class="no-print">
+<h3>Ruqyah, the Jinn, Magic, the Evil Eye, and Related Topics:</h3>
+<ul class="nav-menu">
+<li data-lift="xmenu?locgroup=ruqyah"><a href="#">Ruqyah</a></li>
+</ul>
+<p><a href="/">[Back to Notes Index]</a></p>
+</div>
 
 <sup>Version 1.1</sup>
 

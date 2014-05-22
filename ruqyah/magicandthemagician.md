@@ -1,7 +1,18 @@
 [template: notes]:/
 [title: Magic & The Magician - Notes from Muhammad Tim's Lectures]:/
+[menu: Magic & The Magician]:/
+[menu-locgroup: ruqyah]:/
+[order: 4]:/
 
-<sup>Version 1.0</sup>
+<div id="nav" class="no-print">
+<h3>Ruqyah, the Jinn, Magic, the Evil Eye, and Related Topics:</h3>
+<ul class="nav-menu">
+<li data-lift="xmenu?locgroup=ruqyah"><a href="#">Ruqyah</a></li>
+</ul>
+<p><a href="/">[Back to Notes Index]</a></p>
+</div>
+
+<sup>Version 1.1</sup>
 
 #Magic & The Magician
 
@@ -53,7 +64,7 @@
 * Spells, incantations, and knots, that cause an effect on the body and heart; causing sickness, death, the break up of husband and wife, or cause one of the married couple to turn away from the other.
 	* The above definition is an example of defining something by mentioning some of its types, and is not comprehensive.
 	
-* Something difficult to percieve, that is to a certain extent hidden, that can be learnt, which is similar to the paranormal, without being from those things which people are challenged to produce the like of, or that occur through disguise and trickery, and which come from an evil soul, causing an effect in the material world, indirectly or directly.
+* Something difficult to perceive, that is to a certain extent hidden, that can be learnt, which is similar to the paranormal, without being from those things which people are challenged to produce the like of, or that occur through disguise and trickery, and which come from an evil soul, causing an effect in the material world, indirectly or directly.
 	* The above definition is an attempt to gather together all of the definitions of the scholars of Islam, and includes both real magic and magic intended to cause illusion.
 	
 * Incantations, talismanic symbols, and ta'weez which contain the exaltation of other than Allah in a way which constitutes disbelief, and that are used by a person to gain a particular ability, which the person themselves gains through a learning process and which has certain specific attributes; all of which is completed by unfamiliar means and by ways that are hidden and difficult to perceive; these actions come from evil souls who seek nearness to the shaytaan in order to achieve that which human beings are not normally able to do; things which have a direct affect in the material world, and through which the heart is affected (such as love, hate, and an attachment to good or evil), and the body is affected (such as pain, illness, and death); all of which happen either to an individual or a group, contrary to their wishes, in order to achieve a particular aim.
@@ -159,7 +170,7 @@ Points of benefit:
 	* Things which break up families, especially husband and wife.
 	* Seeing people in a different light.
 	* Massive changes in personality which cause harm to the person and those around them.
-	* Strange behavior, such as refusing to do certain things, like refusing to leave the house at certain times. 
+	* Strange behaviour, such as refusing to do certain things, like refusing to leave the house at certain times. 
 
 ## The Difference Between Magic & Possession
 
