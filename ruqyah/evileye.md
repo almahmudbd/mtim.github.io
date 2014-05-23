@@ -2,7 +2,7 @@
 [title: The Evil Eye - Notes from Muhammad Tim's Lectures]:/
 [menu: The Evil Eye]:/
 [menu-locgroup: ruqyah]:/
-[order: 6]:/
+[order: 7]:/
 
 <div id="nav" class="no-print">
 <h3>Ruqyah, the Jinn, Magic, the Evil Eye, and Related Topics:</h3>
