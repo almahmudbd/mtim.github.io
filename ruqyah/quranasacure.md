@@ -12,7 +12,7 @@
 <p><a href="/">[Back to Notes Index]</a></p>
 </div>
 
-<sup>Version 1.0</sup>
+<sup>Version 1.2</sup>
 
 #The Qur'an as a Cure
 
@@ -96,7 +96,7 @@ as-Sa'dee explained the words as follows:
 
 ##Texts for Seeking a Cure with the Qur'an from the Sunnah
 
-> Abu Sa'eed: Some of the companions of the Prophet (may the peace and blessings of Allah be upon him) went on a journey till they reached some of the Arab tribes (at night). They asked the latter to treat them as their guests but they refused. The chief of that tribe was then bitten by a snake (or stung by a scorpion) and they tried their best to cure him but in vain. Some of them said (to the others), "Nothing has benefited him, will you go to the people who resided here at night, it may be that some of them might possess something (as treatment)," They went to the group of the companions (of the Prophet (may the peace and blessings of Allah be upon him) ) and said, "Our chief has been bitten by a snake (or stung by a scorpion) and we have tried everything but he has not benefited. Have you got anything (useful)?" One of them replied, "Yes, by Allah! I can recite a Ruqya, but as you have refused to accept us as your guests, I will not recite the Ruqya for you unless you fix for us some wages for it." They agrees to pay them a flock of sheep. One of them then went and recited (Surat-ul-Fatihah): 'All the praises are for the Lord of the Worlds' and puffed over the chief who became all right as if he was released from a chain, and got up and started walking, showing no signs of sickness. They paid them what they agreed to pay. Some of them (i.e. the companions) then suggested to divide their earnings among themselves, but the one who performed the recitation said, "Do not divide them till we go to the Prophet (may the peace and blessings of Allah be upon him) and narrate the whole story to him, and wait for his order." So, they went to Allah's Messenger (may the peace and blessings of Allah be upon him) and narrated the story. Allah's Messenger (may the peace and blessings of Allah be upon him) asked, "How did you come to know that Surat-ul-Fatihah was recited as Ruqya?" Then he added, "You have done the right thing. Divide (what you have earned) and assign a share for me as well." The Prophet (may the peace and blessings of Allāh be upon him) laughed thereupon.<sup><span class="footnote">Recorded by al-Bukhari and Muslim.</span></sup>
+> Abu Sa'eed: Some of the companions of the Prophet (may the peace and blessings of Allah be upon him) went on a journey till they reached some of the Arab tribes (at night). They asked the latter to treat them as their guests but they refused. The chief of that tribe was then bitten by a snake (or stung by a scorpion) and they tried their best to cure him but in vain. Some of them said (to the others), "Nothing has benefited him, will you go to the people who resided here at night, it may be that some of them might possess something (as treatment)," They went to the group of the companions (of the Prophet (may the peace and blessings of Allah be upon him) ) and said, "Our chief has been bitten by a snake (or stung by a scorpion) and we have tried everything but he has not benefited. Have you got anything (useful)?" One of them replied, "Yes, by Allah! I can recite a Ruqya, but as you have refused to accept us as your guests, I will not recite the Ruqya for you unless you fix for us some wages for it." They agreed to pay them a flock of sheep. One of them then went and recited (Surat-ul-Fatihah): 'All the praises are for the Lord of the Worlds' and puffed over the chief who became all right as if he was released from a chain, and got up and started walking, showing no signs of sickness. They paid them what they agreed to pay. Some of them (i.e. the companions) then suggested to divide their earnings among themselves, but the one who performed the recitation said, "Do not divide them till we go to the Prophet (may the peace and blessings of Allah be upon him) and narrate the whole story to him, and wait for his order." So, they went to Allah's Messenger (may the peace and blessings of Allah be upon him) and narrated the story. Allah's Messenger (may the peace and blessings of Allah be upon him) asked, "How did you come to know that Surat-ul-Fatihah was recited as Ruqya?" Then he added, "You have done the right thing. Divide (what you have earned) and assign a share for me as well." The Prophet (may the peace and blessings of Allāh be upon him) laughed thereupon.<sup><span class="footnote">Recorded by al-Bukhari and Muslim.</span></sup>
 
 * In one narration "30 sheep, one for each companion."<sup><span class="footnote">Recorded by Ahmad.</span></sup>
 * In one narration "He recited it 7 times."<sup><span class="footnote">Recorded by Ahmad.</span></sup>
@@ -145,9 +145,11 @@ All of these conditions are present in the Qur'an.
 
 ##Methods of Ruqyah
 
-1. Ruqyah alone.
-2. Ruqyah and blowing with dry air.
-3. Ruqyah with spittle.
+###A Summary of the Methods of Ruqyah
+
+1. Reading alone. 
+2. Reading and blowing with dry air.
+3. Reading and blowing with spittle.
 4. Reading into the hands and wiping over the body, without blowing.
 5. Reading and placing the hand on to the place of pain.
 6. Reading and blowing and wiping the hand over the body.
@@ -157,7 +159,110 @@ All of these conditions are present in the Qur'an.
 
 * Note that the methods which involve touching are not suitable for contact between men and women who are non-mahram.
 
-##The Permissibility of Reciting Qur'an Over Water
+###The Methods of Ruqyah in Detail
+
+####Method 1: Reading Alone
+
+This means to read, without blowing, spitting, touching, or wiping. 
+
+From the evidence for this:
+
+> From 'Aa'ishah that the Prophet (may the peace and blessings of Allāh be upon him) when he would go to a sick person or when they would be brought to him would say: "Make the sickness go away, Lord of Mankind! Cure [it], for You are the Curer. There is no cure but Your cure, a cure that leaves behind no illness."<sup><span class="footnote">Recorded by al-Bukhari, no. 5657, and Muslim, no. 2191.</span></sup>
+
+> From 'Aa'ishah that she said, "When the Prophet (may the peace and blessings of Allāh be upon him) was troubled (by sickness), Jibreel would perform ruqyah, saying: 'In the name of Allāh, may He rid you [of this], and from every illness cure you, and from the evil of the envier when he envies and from the evil of every one who gives the evil eye."<sup><span class="footnote">Recorded by Muslim, no. 2185, and Ahmad, no. 25272.</span></sup>
+
+> From Abu Sa'eed that Jibreel came to the Prophet (may the peace and blessings of Allāh be upon him) and said, "O Muhammad! Are you troubled (by sickness)?" He said, "Yes." Jibreel said, "In the name of Allāh, I perform ruqyah for you, from everything that harms you, and from the evil of every person or envious eye, may Allāh cure you. In the name of Allāh, I perform ruqyah on you."<sup><span class="footnote">Recorded by Muslim, no. 2186, Ahmad, no. 11225, and at-Tirmidhi, no. 972.</span></sup>
+
+####Method 2: Reading and Blowing with Dry Air
+
+This means to blow gently without the blowing containing any spittle. 
+
+an-Nawawi said, "The [scholars] reached consensus regarding its permissibilty in ruqyah, and the majority of the companions and the taabi'een and those after them considered it to be recommended."<sup><span class="footnote">an-Nawawi's Explanation of Saheeh Muslim, 14/182.</span></sup>
+
+From the evidence for this:
+
+> From Aa'ishah that the Prophet (may the peace and blessings of Allāh be upon him) used to blow (with dry air) during ruqyah.<sup><span class="footnote">Recorded by an-Nasaa'i in al-Kubraa, no. 7506, Ibn Maajah, no. 2843 and Ibn Abi Shaybah, no. 23564.</span></sup>
+
+> From Aa'ishah that the Messenger of Allāh (may the peace and blessings of Allāh be upon him) when he was troubled (by sickness) used to read over himself the surahs of seeking refuge, and blow (with dry air).<sup><span class="footnote">Recorded by al-Bukhari, and Muslim.</span></sup>
+
+> In the wording of Muslim, she said, "The Messenger of Allāh (may the peace and blessings of Allāh be upon him) if one of his family became sick would blow over them with the surahs of seeking refuge."
+
+####Method 3: Reading and Blowing with Spittle
+
+The Prophet (may the peace and blessings of Allāh be upon him) approved of two of his companions, both of whom used spittle while performing ruqyah.
+
+From the evidence for this:
+
+> The hadeeth of Abu Sa'eed, which contains: "Then, he began to read *Umm al-Qura'n* (i.e., al-Faaithah), and he gathered his spittle and he blew with spittle, and [the man] was cured."
+
+> The hadeeth which Khaarijah ibn as-Salt narrated from his uncle, which contains: "Then they brought the man afflicted by madness, and I read the Opening of the Book (i.e., al-Faatihah) for three days, morning and evening, and I would gather my spit and then blow with spittle...It was as though he was released from chains." <sup><span class="footnote">This wording is that of al-Bukhari, no. 5736, and Muslim, no. 2201.</span></sup>
+
+> From Muhammad ibn Haatib that he said, "A cooking pot fell on my hand, and my hand was burnt, so my father took me to the Messenger of Allāh (may the peace and blessings of Allāh be upon him) and he blew on it with spittle and said, 'Make the sickness go away, Lord of Mankind.' And I think that he said, 'Cure [it], for You are the Curer."<sup><span class="footnote">Recorded by Ahmad, no. 18281, an-Nasaa'i in al-Kubraa, no. 9944, Ibn Abi Shaybah, no. 23562, and at-Tabarani, in al-Kabeer, no. 537. al-Haythami said, "The men of its chain are the men of Bukhari and Muslim" and al-Arna'oot declared it to be fair in his checking of Musnad al-Imam Ahmad.</span></sup>
+
+####Method 4: Readng into the Hands without Blowing, and Wiping
+
+From the guidance of the Prophet (may the peace and blessings of Allāh be upon him) is that he would wipe his right hand over the sick person when he would read ruqyah over them. This is on the condition that the person is one who is permissible to touch, and it is well known that the Prophet (may the peace and blessings of Allāh be upon him) would not touch a non-mahram woman, not even to shake her hand, and he said: "For one of you to be stabbed in the head with an iron needle is better than touching a woman whom it is not permitted."
+
+From the evidence for this method of ruqyah:
+
+> From 'Aa'ishah that when the Prophet (may the peace and blessings of Allāh be upon him) would perform an incantation [of ruqyah] on some of his family, he would wipe with his right hand and say, "O Allāh, Lord of Mankind! Make the sickness go away!  Cure [it] - You are the Curer. There is no cure but Your cure, a cure that leaves behind no illness."<sup><span class="footnote">Recorded by al-Bukhari, no. 5743, and Muslim, no. 2191.</span></sup>
+
+> From Talq ibn 'Ali that he said, "I was stung by a scorpion while I was with the Prophet (may the peace and blessings of Allāh be upon him), so he performed ruqyah on me, and he wiped over it with his hand."<sup><span class="footnote">Recorded by Ahmad, no. 16298, at-Tabarani in al-Kabeer, no. 8262 and 8263, Ibn Hibban, no. 6093, at-Tahaawi in Sharh Ma'aani al-Aathaar, 4/326, al-Haakim in al-Mustadarak 4/416 (he declared it authentic, and adh-Dhahabi agreed, as did al-Albani in Saheeh Mawaarid ad-Damaan, no. 1191).</span></sup>
+
+> From 'Urwah that 'Aa'ishah informed him that the Messenger of Allāh (may the peace and blessings of Allāh be upon him) if he was troubled (by sickness) would blow over himself with the surahs of refuge, and he would wipe over himself with his hand. When he became sick with the illness from which he died, I would blow over him with the surahs of refuge that he used to blow over himself with, and I would wipe with the hand of the Prophet (may the peace and blessings of Allāh be upon him) over him.<sup><span class="footnote">Recorded by al-Bukhari, no. 4439, and Muslim, no. 2191.</span></sup> 
+
+> From 'Aa'ishah regarding her ruqyah of the Prophet (may the peace and blessings of Allāh be upon him) in the sickness which lead to his death, she said, "I would wipe the chest of the Messenger of Allāh (may the peace and blessings of Allāh be upon him) with his hand, and I would say: 'Remove the sickness, Lord of Mankind!"<sup><span class="footnote">Recorded by an-Nasaa'i in al-Kubraa, no. 10787, and the wording of Bukhari and Muslim has already been mentioned.</span></sup>
+
+####Method 5: Reading and Putting the Hand on the Place of Pain
+
+From the guidance of the Prophet (may the peace and blessings of Allāh be upon him) is that he would put his hand on the place of pain, or he would command the sick person to do so, then wipe with it. As for the raaqi putting his hand, then the previous note regarding contact with non-mahrams applies. The alternative is to ask the patient to do it themselves.
+
+The difference between this method and the previous one is that in this method the hand is placed on the area of the pain, followed by wiping, and the previous method is wiping only.
+
+From the evidence for this method:
+
+> From Aa'ishah bint Sa'd that her father said, "I was troubled (by sickness) in Makkah and the Prophet (may the peace and blessings of Allāh be upon him) came to visit me. He put his hand on my forehead then he wiped my chest and my stomach and said, 'O Allāh, cure Sa'd, and complete for him his hijrah."<sup><span class="footnote">Recorded by al-Bukhari, no. 5659, and Abu Dawood, no. 3104.</span></sup>
+
+> From 'Uthmaan ibn Abil-'Aas ath-Thaqafi that he complained to the Messenger of Allāh (may the peace and blessings of Allāh be upon him) of a pain that he was experiencing in his body since becoming Muslim. The Messenger of Allāh (may the peace and blessings of Allāh be upon him) said to him, "Put your hand on that which causes you pain in your body and say, 'Bismillah' three times, then say seven times, 'I seek refuge with Allāh and His power from the evil of that which I feel and fear.'"<sup><span class="footnote">Recorded by Maalik, no. 1686, Muslim, no. 2202, Abu Dawood, no. 3891, at-Tirmidhi, no. 2080, and Ibn Maajah, no. 3522</span></sup>
+
+> In the wording of an-Nasaa'i: "Put your right hand on the place which is causing you trouble and wipe over it seven times, saying: 'I seek refuge with the might of Allāh and His power from the evil of what I feel' each time you wipe."<sup><span class="footnote">Recorded by an-Nasaa'i in al-Kubraa, nos. 10771 and 10772.</span></sup>
+
+####Method 6: Reading, Blowing and Wiping
+
+The Prophet (may the peace and blessings of Allāh be upon him) approved of reading along with blowing and wiping in ruqyah.
+
+From the evidence for this:
+
+> Some of the narrations of the hadeeth of Abu Sa'eed, with the wording, "So I began to read the Opening of the Book (i.e., al-Faatihah), and I wiped the place that was stung, until he was ridden [of the sickness]."<sup><span class="footnote">Recorded by 'Abd ibn Humayd, no. 864, and an-Nasaa'i in al-Kubraa, no. 7490.</span></sup>
+
+> In another narration of the above hadeeth: "He began to read *Umm-al-Qur'an* (i.e., al-Faatihah, and gather his spit, and blow, and the man was ridden [of his sickness].)"<sup><span class="footnote">Recorded by an-Nasaa'i in al-Kubraa, no. 10800.</span></sup>
+
+If we join between all of the different narrations (as we should do when it is possible to do so), we see that Abu Sa'eed joined between reading and blowing with wiping, and the Prophet (may the peace and blessings of Allāh be upon him) approved his action.
+
+####Method 7: Spittle, Earth, and Touching
+
+This method is proven by the hadeeth of 'Aa'ishah:
+
+> The Messenger of Allāh (may the peace and blessings of Allāh be upon him), when a person would complain to him of some (illness), or they were wounded, he would do this with his finger - and Sufyān (Ibn 'Uyaynah) put his index finger on the earth then raised it - and he would say, "In the name of Allāh, he earth of our land with the spittle of one of us, to cure by it our sick, with the permission of our Lord."<sup><span class="footnote">Recorded by al-Bukhari, in shortened form, nos. 5745 and 5746, and Muslim, no. 2194.</span></sup>
+
+an-Nawawi said about this method, "The meaning of the hadeeth is that he took some of his spittle on his index finger, then he put it in the earth, so some of the earth became attached to it, and placed it on the place of the wound or the sickness, and read these words at the time of wiping."
+
+The scholars disagreed as to whether the 'earth' mentioned is specific to Madeenah (or to the lands of Islam). an-Nawawi and Ibn-ul-Qayyim both mentioned that the majority of scholars said that the meaning is any type of earth. This is the correct opinion in shā' Allāh because there is no evidence to make it specific to Madeenah.
+
+
+####Method 8: Salt in Water while Reading
+
+This method is specifically mentioned as a means of treating bites and stings.
+
+The evidence for this is the hadeeth of 'Ali:
+
+> "While the Prophet (may the peace and blessings of Allāh be upon him) was praying one night, he put his hand on the earth and was stung by a scorpion. The Prophet (may the peace and blessings of Allāh be upon him) struck it with his sandal and killed it. When he finished, he said, 'May Allāh curse the scorpion! It does not leave a person who is praying or anyone else - or he said, 'a prophet or anyone else'. Then, he called for salt and water, and he poured them both in a vessel, and he began to pour it over his finger where he was stung, while wiping it and reciting over it the surahs of refuge."<sup><span class="footnote">Recorded by Ibn Abi Shaybah, no. 23553, at-Tabarani, no. 5890, Abu Nu'aym in Akhbaar Asbahaan, 2/23, al-Bayhaqi in Shu'ab al-Imaan, nos. 2340 and 2341, and Ibn Maajah narrated it in shortened form, no. 548. al-Haythami said, "It's chain is fair." al-Albani declared it authentic.</span></sup>
+
+> In one wording, "He read: Qul Yaa Ayyuhal-Kaafiroon, Qul A'oodhu bi Rabbil-Falaq, and Qul A'oodhu bi Rabbin-Naas."<sup><span class="footnote">Recorded by at-Tabarani, see previous footnote.</span></sup>
+
+> In another wording, "He began to wipe over it while reading: Qul Huwa-Allahu Ahad, Qul A'oodhu bi Rabbil-Falaq, and Qul A'oodhu bi Rabbin-Naas."<sup><span class="footnote">Recorded by Abu Nu'aym and al-Bayhaqi, see previous footnote.</span></sup>
+
+####Method 9: Reading Over Water
 
 Reciting the Qur'an upon water is something allowed and permissible according to many of the scholars of Islam, in both early and modern times. In fact, some of the scholars held the opinion that it is recommended to do. Some of the scholars used as evidence the general evidences from the Book and the Sunnah, and others used the hadeeth of Thaabit ibn Qays. However, the hadeeth was declared weak by a group of the scholars of hadeeth.
 
@@ -183,7 +288,7 @@ Having said that, the scholars mention that there are conditions:
 4. Both the raaqi and the one who is being recited over should believe that ruqyah in of itself does not have any effect without the permission of Allah and His decree. 
 5. The ruqyah should not contain any form of shirk or disobedience to Allah.
 
-###The Permissibility of Reciting Over Water, According to the Early Scholars
+#####The Permissibility of Reciting Over Water, According to the Early Scholars
 
 Muhammad ibn Muflih said, "Abdullah [ibn Ahmad ibn Hanbal] narrated that he saw his father read 'A'oodhu billah…' in water and then recite Qur'an over it and drink it, and he would pour some of it over himself." <sup><span class="footnote">al-Aadaab ash-Shar'iyyah 2/441.</span></sup>
 
@@ -191,7 +296,7 @@ Saalih, the son of al-Imam Ahmad (may Allah have mercy on them both) said, "I be
 
 Ibn-ul-Qayyim said, "A time came while I was in Makkah that I became sick, and I could not find a doctor, nor any medicine. I used to treat myself with al-Faatihah. I would take a drink of Zam Zam and I would read on it again and again, then I would drink it. I found a complete cure through this, and from then on I used to stick to this for treating many sicknesses, and it contains within it the peak of benefit." <sup><span class="footnote">Zaad al-Ma'aad 3/188</span></sup>
 
-###The Permissibility of Reciting Over Water, According to the Scholars of Our Time
+#####The Permissibility of Reciting Over Water, According to the Scholars of Our Time
 
 Shaykh Muhammad ibn Ibraheem aal-ash-Shaykh - may Allah have mercy on him - was asked about blowing [Qur'an] in water. He replied, "There is nothing wrong with this. It is permissible. Rather, the scholars have clearly said that it is recommended." <sup><span class="footnote">Majmoo' Fataawaa wa Rasaa'il 1/92.</span></sup>
 
@@ -212,16 +317,6 @@ Shaykh 'Abdul Muhsin al-'Abbad - may Allah preserve him - said in explaining Sun
 Dr. Fahd as-Suhaymi said about the narration of Aa'ishah (may Allah be pleased with her) that the chain of narration contains Ma'shar ibn Ziyaad ibn Kulayb al-Handhali about whom Ibn Hajar said, that he was a reliable narrator from the sixth group. He said about the sixth group, "A group of people who lived at the same time as the people from the fifth group, but there is no proof of their meeting any of the companions." If this is correct, then there is a break in the chain in the hadeeth of Aa'ishah.
 
 Shaykh Ibn Baaz (may Allah have mercy on him) said in his commentary on Fath al-Majeed,"Seeking a cure with the Noble Qur'an and Sidr and the likes are from the permissible medicines and do not fall within the category of innovation, rather they fall within the category of medicine, and the Prophet (may the peace and blessings of Allah be upon him) said, "O Slaves of Allah, seek a cure and do not seek a cure from the haraam." And it is authentically reported in Sunan Abi Dawood that the Prophet (may the peace and blessings of Allah be upon him) read upon water in a vessel and poured it over a sick person. From this we know that seeking a cure by reading over water and honey and the likes are permissible, and there is nothing wrong with them from an Islamic point of view, as long as what is read on them is correct, and the medicine [i.e., water, honey, etc] is something permissible [to eat/drink]."
-
-
-
-
-
-
-
-
-
-
 
 <hr />
 <sup><div id="footnotes" class="footnoteholder"></div></sup>

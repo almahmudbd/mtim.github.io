@@ -22,7 +22,13 @@
 4. [Magic & the Magician](/ruqyah/magicandthemagician)
 5. Amulets & Talismans
 6. [The Evil Eye](/ruqyah/evileye)
-7. An Introduction to Ruqyah
+7. [An Introduction to Ruqyah](/ruqyah/introductiontoruqyah)
 8. [The Qur'an as a Cure](/ruqyah/quranasacure)
 9. The Raaqi & His Family
 10. The Ruqyah Session
+
+##General Lectures
+
+###Lectures for non-Muslims
+
+1. [Islam: The Misunderstood Religion (Sunderland Uni)](/general/islammisunderstood)

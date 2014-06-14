@@ -16,50 +16,51 @@
 
 #An Introduction to Ruqyah
 
-An Introduction to Ruqyah
+##An Important Note
 
+This is the beginning of the practical implementation of the knowledge gained in the previous modules.
 
-Remember the knowledge we have mentioned - this is now one of the practical implementations of that knowledge
+##What is Ruqya?
 
-Amazing practical implementation of your knowledge
+###Linguistically
 
+Ruqyah is an incantation: a series of words said with the intention of achieving a particular effect, particularly when the incantion involves blowing. Linguistically, this includes things like magic spells, when they are said verbally.
 
+###Islamically
 
-What is Ruqya
-Ruqya mentioned in the sunnah:
+Ayat of the Qur'an, authentic du'aa, and the perfect names and attributes of Allāh that a Muslim reads as an incantation with the intention of treating himself or another, seeking a cure from Allāh alone. 
 
-‘Awf ibn Maalik said: We used to recite ruqyahs during the jaahiliyyah, and we said: O Messenger of Allaah, what do you think about that? He said: “Recite your ruqyahs to me. There is nothing wrong with a ruqyah that does not involve shirk.” (muslim)
+##What is Ruqyah for?
 
-Narrated from Jaabir: The Messenger of Allaah (sws) forbade ruqyah, then the family of ‘Amr ibn Hazm came to the Messenger of Allaah (sws) and said: O Messenger of Allaah, we had a ruqyah that we used to recite for scorpion stings, but you have forbidden ruqyah. They recited it to him and he said: “I do not see anything wrong with it. Whoever among you can benefit his brother, let him do so.” 
+For every illness, whether physical, psychological, or spiritual; whether the illness has a known medical cure or not.
 
-·   Sahih Bukhari Hadith (Volume 7, Number 632) Narrated Abu Said Al-Khudri (May Allah be pleased with him)
- 
-Some of the companions of the Prophet (prayers and peace be upon him) came across a tribe amongst the tribes of the Arabs, and that tribe did not entertain them. While they were in that state, the chief of that tribe was bitten by a snake (or stung by a scorpion). They said, (to the companions of the Prophet (prayers and peace be upon him) ), "Have you got any medicine with you or anybody who can treat with Ruqya?" The Prophet's (prayers and peace be upon him) companions said, "You refuse to entertain us, so we will not treat (your chief) unless you pay us for it." So they agreed to pay them a flock of sheep. One of them (the Prophet's (prayers and peace be upon him) companions) started reciting Surat-al-Fatiha and gathering his saliva and spitting it (at the snake-bite). The patient got cured and his people presented the sheep to them, but they said, "We will not take it unless we ask the Prophet (prayers and peace be upon him) (whether it is lawful)." When they asked him, he smiled and said, "How do you know that Surat-al-Fatiha is a Ruqya? Take it (flock of sheep) and assign a share for me."
+##Ruqya in the Qur'an and the Sunnah
 
+* Refer to the next module: [The Qur'an as a Cure](/ruqyah/quranasacure)
 
+##The Cure is From Allah
 
+* We must remember that the cure is from Allah - therefore, we perform ruqya with the belief that no harm or benefit can reach us, except with Allah's will. 
+* One of the greatest tests that a person can face is their own success: do not attach success to yourself nor become arrogant, and remember the lessons of the Battle of Hunayn.
 
- I.e. Ruqyah is the recitation of Quran and Duaas seeking a cure for illnesses from Allah (swt) alone. Ruqya is used for the treatment of Magic, Evil Eye, Jinn Possession and any other illness - because the Qur'an is a cure for all illnesses. 
+##A Blunt Weapon?
 
-Sura Al isra
+For a weapon to be effective, it requires:
 
+* The right weapon
+* A strong arm
+* A good aim
 
+If any of these elements are missing, then even if the other elements are complete, there is a fear that the weapon will not be effective. Likewise, even if you are using the best weapon against the shaytaan: the Book of Allāh, you may not get the result that you want if there are other conditions missing.
 
+##Should I read the Qur'an?
 
+* Almost always this question is unnecessary.
+* The Qur'an is a cure for every illness, so you don't need to worry about what kind of illness it is.
+* There is no harm in the Qur'an and it brings nothng but good.
+* You do not need to have memorised the whole Qur'an.
 
-Sura Yunus
-
-Remember the Shifa is from Allah alone
-However, we must remember that the shifa is from Allah - therefore we perform ruqya with the belief that no harm or benefit can reach us, except with Allah's will. 
-
-Ibn Ul Qayyim - the arm and the sword
-
-Do not attach success to yourself nor become arrogant
-
-
-
-
-
+##Timescales
 
 Levels of completeness in Tawheed - Ibn Uthaymeen
 The first level: that (the person) seeks for someone to perform ruqyah (upon him) - and this person has missed out on kamaal (completeness).
@@ -114,6 +115,42 @@ Things to be Aware of
 Finish your treatment, or it comes back
 
 principle, fear Allah as much you can - 
+
+Reliance upon Allāh is not just one level. It is obligatory upon you that you do not seek help from anyone in something that only Allāh can give you. It is permissible, however, to seek help from people in those things that they can do. The important thing is that the less you ask those people, the closer you become to the highest level of trust and reliance upon Allāh. The more you ask people, the further away you become from trusting in Allāh. The Messenger of Allāh – may the peace and blessings of Allāh be upon him – said:
+
+"Whoever asks someone to do ruqyah for them is free from [truly] trusting in Allāh."
+Yet, there is no doubt that asking someone to do ruqyah is permissible, but because of what it contains in terms of relying upon someone else, and because of how easily your heart can become attached to the person reading, and because of your dependency upon them, your imān and your reliance upon Allāh is not truly complete. Husayn bin ‘Abdur-Rahman said:
+
+"I was once with Sa’eed bin Jubayr when he said, ‘did any of you see the shooting star last night?’ I said, ‘I did.’ Then I said, ‘I wasn’t praying because I was stung.’ He said,‘So what did you do?’ I replied, ‘I asked someone to treat me with ruqyah.’ He asked, ‘What made you do that?’ I said, ‘A hadeeth that ash-
+Sha’bee related to us.’ He said, ‘What did he relate?’ I said, ‘He reported to us from Buraydah bin Al-Husayb – may Allāh be pleased with him – that the Prophet – may the peace and blessings of Allāh be upon him – said, "Ruqyah is not [completely effective] but for the evil eye or for the poisonous sting." Sa’eed responded, ‘He does well who acts upon what he heard. But Ibn Abbās – may Allāh be pleased with them both – reported to us from the Prophet – may the peace and blessings of Allāh be upon him – that he said, ‘The nations were displayed before me. I saw a Prophet with whom there was a small group of people, and a Prophet with whom there was only one or two people, and a Prophet with no one at all. Then a great mass appeared before me, I thought that it was my ummah. It was said to me, ‘This is Musā and his people.’ So I looked, there was another great mass. It was said to me, ‘This is your ummah. Seventy thousand of them will enter paradise without reckoning or punishment.’’ Then he stood to enter his house. The people began wondering who they might be. Some said, ‘Maybe they are the companions of Allāh’s Messenger – may the peace and blessings of Allāh be upon him.’ Some said, ‘Maybe they are those who were born in Islam, and who never associated anything with Allāh.’ And still others were suggested. Then, Allāh’s Messenger – may the peace and blessings of Allāh be upon him – appeared before them to tell them. He said, ‘They are those who do not ask people to treat them with ruqyah, nor follow omens, nor get themselves cauterized, and upon their Lord do they trust’…"
+
+The Muslim who pays close attention to this hadeeth sees that the people who are mentioned are those who complete their imān and achieve true tawheed. They trust completely upon Allāh and they rely completely upon him. Allāh rewards them by entering them into Paradise without any account or any punishment, without any pain or any fear. You might say, ‘But they are only seventy thousand – how can I be from them?’ The answer is that Allāh is capable of doing anything He wants. Ask Allāh and He will give you. And there is good news! There is another wording of the narration: "and with every one of them [the seventy thousand], there are seventy thousand more," so do not despair of the Mercy of Allāh.
+
+I'll try to explain the answer to your question in a few points:
+
+The Messenger of Allāh (may the peace and blessings of Allāh be upon him) advised people to perform ruqyah on others, regardless of whether or not they ask, such as the hadeeth in which he said, "Whoever is able to help your brother let him do so" and many other hadeeth of ruqyah, some of which I mention in my ruqyah course on http://muhammadtim.com/video
+
+The meaning of the description of these people is that they are those people who have that complete trust in Allāh. This is similar to the hadeeth in which the Prophet (may the peace and blessings of Allāh be upon him) told some of the companions that if they drop their whip from a camel, they shouldn't put out their hand for someone to pick it up. This applies to those who seek the highest perfection in their religion, and we don't advise this for people who are in need and then they end up harming themselves and others because they don't ask for help. 
+
+Therefore, there's nothing wrong with asking for ruqyah, if a person is not able to do it themselves. However, if we imagine a raaqi himself, or a reciter of the Qur'an, who is able to do it for themselves - it's much better for them not to ask someone else to do it.
+
+Not asking doesn't mean to refuse an offer of ruqyah. So, if a person says, let me read on you, they should say yes, and this doesn't stop them from being from the 70,000.
+
+The key thing here is that it is (a) not harām to ask, regardless of the circumstances and (b) it may be obligatory to ask for those who are unable to do it themselves, but (c) for those who are able to do it themselves, this is better. 
+
+Seeking advice is not seeking ruqyah - quote surah al-'Asr
+
+Stop people seeing you as a cure besides Allāh and relying on you besides Allāh:
+
+1 . In the first place, you are getting people to recognise that their cure is from Allāh. 
+
+You are getting them to recite upon themselves. 
+
+"I didn't pray because I wanted to be from the 70,000"
+
+2 . The way that you present yourself to people and the way that you carry out your ruqyah, all of this is based upon people being encouraged to rely upon Allāh alone.
+
+
 
 
 
