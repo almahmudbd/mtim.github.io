@@ -47,7 +47,7 @@
 
 * Letters, numbers, talismanic symbols, and astrological symbols.
 * The Qur'an would be added to them, in order to disgrace the Qur'an and to trick the people into thinking that these letters and symbols are something Islamic.
-* The use of the Qur'an in magic.
+* The use of the Qur'an in magic - bani israel one letter.
 * The use of magic by some of the innovated sects, particularly among their extreme leaders and followers.
 
 ##The Definition of Magic
@@ -95,6 +95,7 @@ Magic can be divided into two main categories:
 * From the point of view of the purposes of magic, magic can be divided into two types:
 	* *Sarf* - separation or turning something away. This includes all magic that is done for 'evil' purposes, such as killing, separating, causing illness, hatred, insanity, ruin etc.
 	* *'Atf* - bringing together. This includes all magic that is done for 'good' purposes (and there is no good in it), such as causing love, bringing together, medicine, healing, etc.
+	* Combined
 	
 * Each of these can be subdivided into categories, such as dividing sarf into:
 	* Separation

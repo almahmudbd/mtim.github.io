@@ -12,7 +12,7 @@
 <p><a href="/">[Back to Notes Index]</a></p>
 </div>
 
-<sup>Version 1.0</sup>
+<sup>Version 1.1</sup>
 
 #The Evil Eye
 
@@ -25,7 +25,7 @@
 	
 * According to some scholars (particularly those who follow the second opinion), it can even be given to yourself, or your own children, and even when joking.
 * At times, it can be worse than magic.
-* However, we should avoid blaming
+* However, we should avoid blaming everything.
 
 ##The Islamic Definition of the Evil Eye
 
@@ -75,7 +75,7 @@ From the benefits of this hadeeth:
 
 1. That the evil eye is something real.
 2. The severity of the evil eye.
-3. The obligation of making ghusl wudoo' when requested; whether or not you think that you gave someone the evil eye.
+3. The obligation of making ghusl or wudoo' when requested; whether or not you think that you gave someone the evil eye.
 
 > 'Aa'ishah said: The person who had put the evil eye o­n another would be ordered to do wudoo', then the person who had been afflicted would wash himself (with that water).<sup><span class="footnote">Recorded by Abu Dawood.</span></sup>
 
@@ -92,7 +92,7 @@ From the benefits of this hadeeth:
 3. That it is not from the Sunnah to refuse ruqyah, quoting the hadeeth of the 70,000.
 4. That the cure in ruqyah is from Allah, not from the raaqi - no matter who they are.
 
-> 'A'ishah reported that Allah's Messenger may the peace and blessings of Allah be upon him) commanded the use of incantation for curing the influence of an evil eye.
+> 'A'ishah reported that Allah's Messenger may the peace and blessings of Allah be upon him) commanded the use of ruqyah for curing the influence of an evil eye.
 
 From the benefits of this hadeeth:
 
@@ -104,7 +104,7 @@ From the benefits of this hadeeth:
 > Jabir bin 'Abdullah reported that Allah's Messenger (may the peace and blessings of Allah be upon him) granted permission to the family of Hazm to do ruqyah (in mitigating the effect of the poison of) the snake, and, he said to Asma' daughter of 'Umais:
 "What is this that I see the children of my brother [Ja'far] lean? Are they not fed properly?" She said: "No, but they fall under the influence of an evil eve." He said: "Use ruqyah." She recited (the words of incantation before him), whereupon he (by approving them) said: "Yes, use this incantation for them."
 
-> 'Urwah ibn az-Zubayr told him that the Messenger of Allah, may Allah bless him and grant him peace, entered the house of Umm Salamah, the wife of the Prophet (may the peace and blessings of Allah be upon him). There was a child weeping in the house, and they told him that it was from the evil eye. Urwah said that the Messenger of Allah, (may the peace and blessings of Allah be upon him) said, "Why do you not find someone to make ruqyah to protect [the child] from the evil eye?"
+> 'Urwah ibn az-Zubayr told him that the Messenger of Allah, may Allah bless him and grant him peace, entered the house of Umm Salamah, the wife of the Prophet (may the peace and blessings of Allah be upon him). There was a child weeping in the house, and they told him that it was from the evil eye. 'Urwah said that the Messenger of Allah, (may the peace and blessings of Allah be upon him) said, "Why do you not find someone to make ruqyah to protect [the child] from the evil eye?"
 
 From the benefits of these hadeeth:
 

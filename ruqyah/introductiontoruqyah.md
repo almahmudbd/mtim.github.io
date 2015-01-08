@@ -60,7 +60,9 @@ If any of these elements are missing, then even if the other elements are comple
 * There is no harm in the Qur'an and it brings nothng but good.
 * You do not need to have memorised the whole Qur'an.
 
-##Timescales
+##Expectations and Timescales
+
+
 
 Levels of completeness in Tawheed - Ibn Uthaymeen
 The first level: that (the person) seeks for someone to perform ruqyah (upon him) - and this person has missed out on kamaal (completeness).

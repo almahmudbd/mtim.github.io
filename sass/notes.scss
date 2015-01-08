@@ -10,19 +10,23 @@
 
 //Mixins
 
-@mixin google-font ($family: "Source+Sans+Pro", $weights: "standard") {
+@mixin google-font ($family: "Source+Sans+Pro", $weights: "standard", $subsets "standard") {
 	$weightstring: "";
+  $subsetstring: "";
 	@if $weights != "standard" {
 		$weightstring: ":#{$weights}";
 	}
+	@if $subsets != "standard" {
+		$subsetstring: "&subset=#{$subsets}";
+	}
 	$family: unquote($family);
 	$weightstring: unquote($weightstring);
-	@import url("http://fonts.googleapis.com/css?family=#{$family}#{$weightstring}");
+	@import url("http://fonts.googleapis.com/css?family=#{$family}#{$weightstring}#{$subsetstring}");
 }
 
 //Fonts
 
-@include google-font("Source+Sans+Pro", "300,700,300italic,700italic");
+@include google-font("Source+Sans+Pro", "300,600,300italic,600italic", "latin,latin-extended");
 
 html {
 
