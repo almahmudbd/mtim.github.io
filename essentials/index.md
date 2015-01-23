@@ -24,6 +24,7 @@ Temporarily, we may link to PDF content on Google Docs. This will change as the 
 ###Advanced Track
 
 1. [The Beneficial Summary Explaining the Proofs for the Categories of Tawheed](https://drive.google.com/file/d/0Bzm5CIFEd6r6THF1TzNLdnJGU0E/view?usp=sharing)
+2. [Kashf ash-Shubuhaat - The Clearing of Doubts](https://drive.google.com/file/d/0Bzm5CIFEd6r6NXhURkFZMlNYbXM/view?usp=sharing)
 
 ##Notes for the Course
 
