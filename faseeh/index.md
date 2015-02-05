@@ -1,5 +1,5 @@
 [template: notes]:/
-[title: Notes, Texts, and Audio for The Essentials Course]:/
+[title: Notes for al-Faṣeeh Arabic Course]:/
 
 #Notes for al-Faṣeeh Arabic Course
 
