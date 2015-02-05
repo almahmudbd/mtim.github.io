@@ -1,11 +1,11 @@
 [template: notes]:/
-[title: Notes for al-Faṣeeh Arabic Course]:/
+[title: Notes for al-Faṣeeḥ Arabic Course]:/
 
-#Notes for al-Faṣeeh Arabic Course
+#Notes for al-Faṣeeḥ Arabic Course
 
 Please note that this page is being frequently updated, so please check back regularly. 
 
-We will usually link to PDF content on Google Docs, rather than host the files here, especially due to problems rendering Arabic text in some web browsers. You can print and save the documents from there.
+We will usually link to PDF content on Google Drive, rather than host the files here, especially due to problems rendering Arabic text in some web browsers. You can print and save the documents from there.
 
 ##Lesson 1 - Introduction
 
