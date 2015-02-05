@@ -13,4 +13,4 @@ We will usually link to PDF content on Google Docs, rather than host the files h
 2. [Arabic Grammar and Morphology Primer](https://drive.google.com/file/d/0Bzm5CIFEd6r6U0lqN0VfaWVRRmM/view?usp=sharing)
 
 ##Lesson 2 - أَسْمَاءُ الإِشَارَةِ لِلْمُفْرَدِ وَالجُمْلَةُ الاِسْمِيَّةُ البَسِيطَةُ  
-قَرِيباً - إِنْ شَاءَ اللهُ
+<p dir="rtl">قَرِيباً - إِنْ شَاءَ اللهُ</p>
