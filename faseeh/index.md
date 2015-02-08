@@ -10,5 +10,6 @@ We will usually link to PDF content on Google Drive, rather than host the files 
 1. [al-Faseeh English Presentation - Lesson 1](https://drive.google.com/file/d/0Bzm5CIFEd6r6ZkZrM2xVYUpMTXM/view?usp=sharing)
 2. [Arabic Grammar and Morphology Primer](https://drive.google.com/file/d/0Bzm5CIFEd6r6U0lqN0VfaWVRRmM/view?usp=sharing)
 3. [الدَّرْسُ الثَّانِي](https://drive.google.com/a/kalemah.org/file/d/0Bzm5CIFEd6r6S3NlWmI5eW5XOW8/view?usp=sharing)
-
+4. [عَرْضُ الدَّرْسِ]( الثَّانِي](https://drive.google.com/a/kalemah.org/file/d/0Bzm5CIFEd6r6YzNyTGFrY0FLdE0/view?usp=sharing)
+)
 ##الدَّرْسُ الثَالِثُ - قَرِيباً إِنْ شَاءَ اللهُ 
