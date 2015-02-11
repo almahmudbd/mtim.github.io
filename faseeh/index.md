@@ -19,4 +19,8 @@ We will usually link to PDF content on Google Drive, rather than host the files 
 1. [Lesson 2 - Student Notes](https://drive.google.com/a/kalemah.org/file/d/0Bzm5CIFEd6r6S3NlWmI5eW5XOW8/view?usp=sharing)
 2. [Lesson 2 - Presentation](https://drive.google.com/a/kalemah.org/file/d/0Bzm5CIFEd6r6YzNyTGFrY0FLdE0/view?usp=sharing)
 
-##Lesson 3 - Coming Soon, in shā' Allāh.
+##Lesson 3
+
+1. [Lesson 3 - Student Notes](https://drive.google.com/file/d/0Bzm5CIFEd6r6dmVsNXJGdDlnYlk/view?usp=sharing)
+
+##Lesson 4 - Coming Soon, in shā' Allāh.
