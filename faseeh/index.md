@@ -22,5 +22,8 @@ We will usually link to PDF content on Google Drive, rather than host the files 
 ##Lesson 3
 
 1. [Lesson 3 - Student Notes](https://drive.google.com/file/d/0Bzm5CIFEd6r6dmVsNXJGdDlnYlk/view?usp=sharing)
+2. [Lesson 3 - Presentation](https://drive.google.com/file/d/0Bzm5CIFEd6r6eERIM2I3eEY3OTA/view?usp=sharing)
 
-##Lesson 4 - Coming Soon, in shā' Allāh.
+##Lesson 4
+
+1. [Lesson 4 - Student Notes](https://drive.google.com/file/d/0Bzm5CIFEd6r6ZFF6cjBfUkt1UU0/view?usp=sharing)
