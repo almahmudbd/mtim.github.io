@@ -11,6 +11,12 @@ You can now also access the [master list of vocabulary](https://docs.google.com/
 
 Word documents are now being phased out. For now, the lesson summary will only be attached as a PDF from the powerpoint presentation. It is expected - in shā' Allāh - that this will also be phased out, and replaced with a better suited tool in future lessons.
 
+##New Powerpoint Presentations
+
+These are subject to change, as they are improved:
+
+1. [Lesson 5 - Presentation](https://drive.google.com/file/d/0Bzm5CIFEd6r6VF9IdDFHcy1zSzQ/view?usp=sharing)
+
 ##Old Material
 
 ###Lesson 1
