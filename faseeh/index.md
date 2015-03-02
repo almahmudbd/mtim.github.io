@@ -16,6 +16,7 @@ Word documents are now being phased out. For now, the lesson summary will only b
 These are subject to change, as they are improved:
 
 1. [Lesson 5 - Presentation](https://drive.google.com/file/d/0Bzm5CIFEd6r6VF9IdDFHcy1zSzQ/view?usp=sharing)
+2. [Lesson 6 - Presentation](https://docs.google.com/presentation/d/1SKKfnnnwLKAQriwbT6d24KWg7I2jEVTSdk1jbx7rfs4/edit?usp=sharing)
 
 ##Old Material
 
