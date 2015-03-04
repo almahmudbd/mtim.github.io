@@ -20,6 +20,7 @@ Temporarily, we may link to PDF content on Google Docs. This will change as the 
 
 1. [A Summary of the Hilyah Taalib al-'Ilm](https://drive.google.com/file/d/0Bzm5CIFEd6r6THZXVWNtWXg0Vnc/view?usp=sharing)
 2. [The Three Fundamental Principles and the Four Basic Rules](https://drive.google.com/file/d/0Bzm5CIFEd6r6Z3R3aWFGRmdma00/view?usp=sharing)
+3. [The 40 Hadeeth of an-Nawawi](http://aa.trinimuslims.com/ilm/?book=nawawi40hadith) - Please note that this is an external link, and I have no idea how good the website itself is, or any of the content. However, the 40 hadeeth text and translation looks to be good, so I thought I would put this online for the students to benefit from.
 
 ###Advanced Track
 
