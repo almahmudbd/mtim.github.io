@@ -11,7 +11,11 @@ You can now also access the [master list of vocabulary](https://docs.google.com/
 
 Word documents are now being phased out. For now, the lesson summary will only be attached as a PDF from the powerpoint presentation. It is expected - in shā' Allāh - that this will also be phased out, and replaced with a better suited tool in future lessons.
 
-##New Powerpoint Presentations
+##Example Texts
+
+These are stored in a single [Google Drive folder](https://drive.google.com/folderview?id=0Bzm5CIFEd6r6fkt4YkN4X292Q0R4cWpaaE83ZTVubWhYNHdzSktiWTVWdjVPTEtuQjJIMkk&usp=sharing) which is updated regularly.
+
+##Old Powerpoint Presentations
 
 These are subject to change, as they are improved:
 
